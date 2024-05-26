@@ -1,7 +1,7 @@
 <h1 align="center">NLW Expert | Notes</h1>
 
 <p align= "center">
-  <img alt="home do projeto" src="./github/expert-note.png">
+  <img alt="home do projeto" src="./src/github/expert-note.png">
 </p>
 
 ## 🚀 Tecnologias
